@@ -1,8 +1,6 @@
-![https://retosdeprogramacion.com](./Images/header.jpg)
+# Roadmap retos de programación 2
 
-# Roadmap retos de programación 2024
-
-### Ruta de estudio con ejercicios para mejorar tu lógica de programación y aprender cualquier lenguaje. Gratis, a tu ritmo y en comunidad.
+### Ruta de estudio con ejercicios para mejorar tu lógica de programación y aprender cualquier lenguaje.
 
 #### [https://retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)
 [![Retos programación web](https://img.shields.io/github/stars/mouredev/retos-programacion-web?label=Web%20Retos%20Programación&style=social)](https://github.com/mouredev/retos-programacion-web)
@@ -15,11 +13,8 @@
 
 ## Información importante
 
-* Puedes utilizar **cualquier lenguaje de programación**, y encontrar tanto mis correcciones como las de la comunidad en el directorio de cada reto.
-* **¿Quieres participar?** Te lo explico en la sección **[Instrucciones](https://github.com/mouredev/roadmap-retos-programacion#instrucciones)** en este mismo documento.
+* Puedes utilizar **cualquier lenguaje de programación**,
 * Los retos siguen un orden basado en su ruta de estudio pero si ya tienes conocimientos puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
-
-> Consulta la [web](https://retosdeprogramacion.com/roadmap) para más información.
 
 ## Roadmap
 
