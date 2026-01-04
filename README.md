@@ -1,5 +1,5 @@
 # Roadmap retos de programación 2024-2025
-NOTA Importante: forked from mouredev/retos-programacion-2023
+NOTA Importante: Forked from mouredev/roadmap-retos-programacion
 
 ### Ruta de estudio con ejercicios para mejorar tu lógica de programación y aprender cualquier lenguaje.
 
